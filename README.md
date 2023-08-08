@@ -31,6 +31,7 @@ Publish the website in the given URL.
 ## DESIGN TOOL:
 Figma
 #CODE:
+```
 /* Home Page */
 
 position: relative;
@@ -246,6 +247,7 @@ line-height: 24px;
 text-align: center;
 
 color: #2B392C;
+```
 
 ## OUTPUT:
 
